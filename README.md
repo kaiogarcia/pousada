@@ -45,7 +45,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Demo 📸
 
 <div align="center" >
-  <img src="./github/demo1.gif" alt="demo1">
+  <img src="https://github.com/kaiogarcia/pousada/assets/63928281/7c769e0e-7956-4e33-bc3f-1aaaa516354a
+" alt="demo1">
 </div>
 
 ---
