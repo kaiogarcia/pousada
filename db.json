@@ -1,0 +1,44 @@
+{
+  "guests": [
+    {
+      "name": "Nathan",
+      "rg": "11.111.111-1",
+      "cpf": "222.222.222-22",
+      "phoneNumber": "(99) 99999-9999",
+      "birthDate": "2023-06-03",
+      "id": 1
+    },
+    {
+      "name": "Jonh Doe",
+      "rg": "11.111.111-1",
+      "cpf": "222.222.222-22",
+      "phoneNumber": "(99) 99999-9999",
+      "birthDate": "2023-06-24",
+      "id": 2
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "roomNumber": "1",
+      "startDate": "22/11/2022",
+      "endDate": "30/11/2022",
+      "payingGuest": "Nathan de Araujo Ferreira",
+      "accompanyingGuests": [
+        "Vinícius Vechiato",
+        "Gustavo Balbino"
+      ]
+    },
+    {
+      "id": 2,
+      "roomNumber": "2",
+      "startDate": "01/12/2022",
+      "endDate": "31/12/2022",
+      "payingGuest": "Henrique Nogueira",
+      "accompanyingGuests": [
+        "Nathan de Araujo Ferreira",
+        "Victor Kazumi"
+      ]
+    }
+  ]
+}
