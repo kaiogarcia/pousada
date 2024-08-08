@@ -29,7 +29,7 @@ O projeto foi construído utilizando [React Hook Form](https://react-hook-form.c
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/NaathanFerreira/trcbooking.git
+$ git clone https://github.com/kaiogarcia/pousada
 # Access the project folder on terminal/cmd
 $ cd trcbooking
 # Install dependencies
